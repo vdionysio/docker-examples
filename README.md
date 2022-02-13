@@ -41,3 +41,5 @@ Depois de ter criado o container docker-mysql-node, execute novamente o `npm sta
 
 ## 2º exemplo
 Mude para a branch **orquestrando** para iniciar o segundo exemplo.
+
+*Obs: esse repositório faz parte da monitoria em grupo da Turma 16 - Tribo A da Trybe. Não trouxe muitas explicações dentro do repositório pois essas serão abordadas durante a monitoria*
