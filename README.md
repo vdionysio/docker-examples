@@ -25,7 +25,7 @@ O seu funcionamento é bem simples. A aplicação conecta com o banco mysql e re
 Com apenas um comando, conseguimos rodar nossa aplicação em um container, o banco de dados em outro container e ainda fazer a conexão entre esses dois servições.
 
 Na raiz do repositório, execute:
-`docke-compose up`
+`docker-compose up`
 
 Esse comando ira orquestrar nossos containers com base no conteúdo do arquivo `docker-compose.yaml`.
 Aguarde uma mensagem semelhante a seguinte:
