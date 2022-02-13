@@ -34,4 +34,4 @@ Aguarde uma mensagem semelhante a seguinte:
 
 Podemos então checar na rota http://localhost:5000/ se nossa aplicação está rodando como esperamos.
 
-*Obs: esse repositório faz parte da monitoria em grupo da Turma 16 - Tribo A da Trybe. Não trouxe muitas explicações dentro do repositório pois essas serão feitas durante a monitoria*
+*Obs: esse repositório faz parte da monitoria em grupo da Turma 16 - Tribo A da Trybe. Não trouxe muitas explicações dentro do repositório pois essas serão abordadas durante a monitoria*
