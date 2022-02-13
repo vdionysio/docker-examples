@@ -6,8 +6,9 @@ const conn = mysql.createConnection({
   password: 'password',
 });
 
+const dbName = 'teste2'
 conn.query(
-  'CREATE DATABASE IF NOT EXISTS banco_teste;',
+  `CREATE DATABASE IF NOT EXISTS ${dbName};`,
   (err, _result) => {
     if (err) throw err;
     console.log("Banco criado");
