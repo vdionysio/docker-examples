@@ -40,7 +40,8 @@ Esse comando faz com que uma instância do mysql seja executada dentro de um con
 Depois de ter criado o container docker-mysql-node, execute novamente o `npm start` e verá que a aplicação ira rodar normalmente. A mágica do docker foi realizada com sucesso.
 
 ## 2º exemplo
-Antes de trocar de branch, delete a pasta `node_modules` e o arquivo `package-lock.json` da branch **master**
+Antes de prosseguir, delete a pasta `node_modules` e o arquivo `package-lock.json` da branch **master**.
+
 Mude para a branch **orquestrando** para iniciar o segundo exemplo.
 
 *Obs: esse repositório faz parte da monitoria em grupo da Turma 16 - Tribo A da Trybe. Não trouxe muitas explicações dentro do repositório pois essas serão abordadas durante a monitoria*
